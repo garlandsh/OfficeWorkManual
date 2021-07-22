@@ -15,7 +15,7 @@ UIの変更点について見た目と操作性に違和感がないことを確
 |upload|item追加|ファイルを開いてアイテムを追加|ファイルリストに<br>指定の<b style="color:red">アイテム</b>が追加されること|
 
 imageの追加例:![test](img/test.png)
-![test2](C:\Users\mitoo\Documents\61oL61rmyJL._SX355_.jpg)
+
 ```
 test
 ```
